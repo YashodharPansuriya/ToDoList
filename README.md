@@ -1,2 +1,2 @@
 # ToDoList
-Build ToDoList Application using HTML and CSS.
+Build ToDoList Application using Javascript, HTML and CSS.
